@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "fastai/fastbook",
+    "stargazers_count": 15925,
+    "open_issues_count": 66,
+    "forks_count": 5965
+  },
+  {
+    "full_name": "fastai/fastai",
+    "stargazers_count": 22699,
+    "open_issues_count": 120,
+    "forks_count": 7289
+  },
+  {
     "full_name": "pytorch/pytorch",
     "stargazers_count": 58435,
     "open_issues_count": 9996,
