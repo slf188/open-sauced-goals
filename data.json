@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "pytorch/pytorch",
+    "stargazers_count": 58435,
+    "open_issues_count": 9996,
+    "forks_count": 16290
+  },
+  {
+    "full_name": "huggingface/diffusers",
+    "stargazers_count": 4366,
+    "open_issues_count": 75,
+    "forks_count": 331
+  },
+  {
+    "full_name": "apple/swift-book",
+    "stargazers_count": 916,
+    "open_issues_count": 15,
+    "forks_count": 37
+  },
+  {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 767,
     "open_issues_count": 18,
