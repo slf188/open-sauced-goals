@@ -1,99 +1,111 @@
 [
   {
-    "full_name": "fastai/fastbook2e",
-    "stargazers_count": 19,
+    "full_name": "nat/natbot",
+    "stargazers_count": 57,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 3
+  },
+  {
+    "full_name": "jupyter/nbviewer",
+    "stargazers_count": 2017,
+    "open_issues_count": 172,
+    "forks_count": 524
+  },
+  {
+    "full_name": "fastai/fastbook2e",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 1
   },
   {
     "full_name": "fastai/fastdiffusion",
-    "stargazers_count": 74,
+    "stargazers_count": 89,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 9402,
-    "open_issues_count": 116,
-    "forks_count": 336
+    "stargazers_count": 9842,
+    "open_issues_count": 128,
+    "forks_count": 352
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 9437,
-    "open_issues_count": 5,
-    "forks_count": 540
+    "stargazers_count": 10384,
+    "open_issues_count": 3,
+    "forks_count": 645
   },
   {
     "full_name": "LeetCode-OpenSource/vscode-leetcode",
-    "stargazers_count": 7514,
-    "open_issues_count": 242,
-    "forks_count": 575
+    "stargazers_count": 7517,
+    "open_issues_count": 244,
+    "forks_count": 576
   },
   {
     "full_name": "stripe/stripe-cli",
-    "stargazers_count": 1345,
+    "stargazers_count": 1346,
     "open_issues_count": 108,
     "forks_count": 321
   },
   {
     "full_name": "divamgupta/stable-diffusion-tensorflow",
-    "stargazers_count": 950,
+    "stargazers_count": 1011,
     "open_issues_count": 21,
-    "forks_count": 108
+    "forks_count": 113
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 17798,
-    "open_issues_count": 2364,
-    "forks_count": 1337
+    "stargazers_count": 17829,
+    "open_issues_count": 2350,
+    "forks_count": 1338
   },
   {
     "full_name": "HIPS/autograd",
-    "stargazers_count": 5978,
-    "open_issues_count": 169,
+    "stargazers_count": 5984,
+    "open_issues_count": 168,
     "forks_count": 834
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 14123,
+    "stargazers_count": 14244,
     "open_issues_count": 40,
-    "forks_count": 463
+    "forks_count": 474
   },
   {
     "full_name": "leanprover/lean4",
-    "stargazers_count": 1812,
-    "open_issues_count": 145,
+    "stargazers_count": 1815,
+    "open_issues_count": 147,
     "forks_count": 172
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 64580,
+    "stargazers_count": 64646,
     "open_issues_count": 15,
-    "forks_count": 4945
+    "forks_count": 4946
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 78274,
+    "stargazers_count": 78434,
     "open_issues_count": 24,
-    "forks_count": 11313
+    "forks_count": 11327
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 63059,
+    "stargazers_count": 63101,
     "open_issues_count": 54,
-    "forks_count": 5967
+    "forks_count": 5977
   },
   {
     "full_name": "Kaggle/kaggle-api",
-    "stargazers_count": 4955,
-    "open_issues_count": 228,
-    "forks_count": 958
+    "stargazers_count": 4958,
+    "open_issues_count": 229,
+    "forks_count": 960
   },
   {
     "full_name": "karpathy/nn-zero-to-hero",
-    "stargazers_count": 2803,
+    "stargazers_count": 2836,
     "open_issues_count": 3,
-    "forks_count": 124
+    "forks_count": 128
   },
   {
     "full_name": "julienditto/database_system",
@@ -103,27 +115,27 @@
   },
   {
     "full_name": "karpathy/micrograd",
-    "stargazers_count": 2745,
-    "open_issues_count": 9,
-    "forks_count": 252
+    "stargazers_count": 2754,
+    "open_issues_count": 11,
+    "forks_count": 255
   },
   {
     "full_name": "kirel/detexify",
-    "stargazers_count": 683,
+    "stargazers_count": 685,
     "open_issues_count": 17,
     "forks_count": 50
   },
   {
     "full_name": "microsoft/muzic",
-    "stargazers_count": 2296,
-    "open_issues_count": 21,
-    "forks_count": 188
+    "stargazers_count": 2302,
+    "open_issues_count": 22,
+    "forks_count": 190
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 33486,
-    "open_issues_count": 56,
-    "forks_count": 8057
+    "stargazers_count": 33517,
+    "open_issues_count": 54,
+    "forks_count": 8067
   },
   {
     "full_name": "rauchg/wifi-password",
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "openai/CLIP",
-    "stargazers_count": 9879,
+    "stargazers_count": 9948,
     "open_issues_count": 94,
-    "forks_count": 1452
+    "forks_count": 1465
   },
   {
     "full_name": "huggingface/diffusers",
-    "stargazers_count": 5742,
-    "open_issues_count": 142,
-    "forks_count": 541
+    "stargazers_count": 5880,
+    "open_issues_count": 143,
+    "forks_count": 575
   },
   {
     "full_name": "apple/swift-book",
-    "stargazers_count": 1276,
-    "open_issues_count": 18,
-    "forks_count": 48
+    "stargazers_count": 1284,
+    "open_issues_count": 17,
+    "forks_count": 49
   },
   {
     "full_name": "Anduin2017/HowToCook",
-    "stargazers_count": 47271,
-    "open_issues_count": 329,
-    "forks_count": 7124
+    "stargazers_count": 47336,
+    "open_issues_count": 330,
+    "forks_count": 7132
   },
   {
     "full_name": "EvanLi/Github-Ranking",
-    "stargazers_count": 2775,
+    "stargazers_count": 2789,
     "open_issues_count": 12,
-    "forks_count": 230
+    "forks_count": 232
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 34387,
-    "open_issues_count": 384,
-    "forks_count": 801
-  },
-  {
-    "full_name": "heckj/swiftui-notes",
-    "stargazers_count": 1619,
-    "open_issues_count": 22,
-    "forks_count": 160
-  },
-  {
-    "full_name": "languagetool-org/languagetool",
-    "stargazers_count": 7568,
-    "open_issues_count": 1642,
-    "forks_count": 981
+    "stargazers_count": 34504,
+    "open_issues_count": 385,
+    "forks_count": 803
   }
 ]
