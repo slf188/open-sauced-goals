@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "vercel/hyper",
+    "stargazers_count": 39406,
+    "open_issues_count": 847,
+    "forks_count": 3280
+  },
+  {
+    "full_name": "vercel/vercel",
+    "stargazers_count": 9371,
+    "open_issues_count": 212,
+    "forks_count": 1408
+  },
+  {
+    "full_name": "vercel/next.js",
+    "stargazers_count": 93684,
+    "open_issues_count": 1361,
+    "forks_count": 20598
+  },
+  {
+    "full_name": "microsoft/vscode-extension-recommender",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "tonybaloney/vscode-pets",
+    "stargazers_count": 1150,
+    "open_issues_count": 46,
+    "forks_count": 162
+  },
+  {
     "full_name": "openai/spinningup",
-    "stargazers_count": 7265,
+    "stargazers_count": 7272,
     "open_issues_count": 191,
-    "forks_count": 1713
+    "forks_count": 1716
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 146303,
-    "open_issues_count": 178,
-    "forks_count": 37306
+    "stargazers_count": 146584,
+    "open_issues_count": 228,
+    "forks_count": 37441
   },
   {
     "full_name": "chubin/cheat.sh",
-    "stargazers_count": 30650,
+    "stargazers_count": 30668,
     "open_issues_count": 101,
-    "forks_count": 1534
+    "forks_count": 1535
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7346,
-    "open_issues_count": 454,
-    "forks_count": 745
+    "stargazers_count": 7353,
+    "open_issues_count": 459,
+    "forks_count": 746
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 111237,
+    "stargazers_count": 111345,
     "open_issues_count": 196,
-    "forks_count": 11750
+    "forks_count": 11749
   },
   {
     "full_name": "fastai/course22p2",
-    "stargazers_count": 22,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "openai/openai-python",
-    "stargazers_count": 755,
-    "open_issues_count": 9,
-    "forks_count": 253
+    "stargazers_count": 767,
+    "open_issues_count": 10,
+    "forks_count": 257
   },
   {
     "full_name": "nat/natbot",
-    "stargazers_count": 385,
+    "stargazers_count": 458,
     "open_issues_count": 5,
-    "forks_count": 38
+    "forks_count": 45
   },
   {
     "full_name": "jupyter/nbviewer",
-    "stargazers_count": 2017,
+    "stargazers_count": 2018,
     "open_issues_count": 173,
-    "forks_count": 525
+    "forks_count": 524
   },
   {
     "full_name": "fastai/fastbook2e",
-    "stargazers_count": 31,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "fastai/fastdiffusion",
-    "stargazers_count": 95,
-    "open_issues_count": 2,
+    "stargazers_count": 97,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 10601,
-    "open_issues_count": 142,
-    "forks_count": 394
+    "stargazers_count": 11069,
+    "open_issues_count": 157,
+    "forks_count": 418
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 11549,
-    "open_issues_count": 7,
-    "forks_count": 787
+    "stargazers_count": 12133,
+    "open_issues_count": 5,
+    "forks_count": 866
   },
   {
     "full_name": "LeetCode-OpenSource/vscode-leetcode",
-    "stargazers_count": 7522,
+    "stargazers_count": 7529,
     "open_issues_count": 246,
-    "forks_count": 575
+    "forks_count": 576
   },
   {
     "full_name": "stripe/stripe-cli",
     "stargazers_count": 1347,
-    "open_issues_count": 108,
-    "forks_count": 322
+    "open_issues_count": 110,
+    "forks_count": 323
   },
   {
     "full_name": "divamgupta/stable-diffusion-tensorflow",
-    "stargazers_count": 1095,
-    "open_issues_count": 21,
-    "forks_count": 128
+    "stargazers_count": 1120,
+    "open_issues_count": 23,
+    "forks_count": 132
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 17922,
-    "open_issues_count": 2388,
-    "forks_count": 1341
+    "stargazers_count": 17962,
+    "open_issues_count": 2399,
+    "forks_count": 1348
   },
   {
     "full_name": "HIPS/autograd",
-    "stargazers_count": 5993,
+    "stargazers_count": 5999,
     "open_issues_count": 168,
     "forks_count": 834
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 14496,
-    "open_issues_count": 42,
-    "forks_count": 486
+    "stargazers_count": 14686,
+    "open_issues_count": 43,
+    "forks_count": 493
   },
   {
     "full_name": "leanprover/lean4",
-    "stargazers_count": 1829,
-    "open_issues_count": 158,
+    "stargazers_count": 1835,
+    "open_issues_count": 157,
     "forks_count": 172
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 64809,
+    "stargazers_count": 64900,
     "open_issues_count": 12,
-    "forks_count": 4951
+    "forks_count": 4959
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 78730,
+    "stargazers_count": 78956,
     "open_issues_count": 25,
-    "forks_count": 11364
+    "forks_count": 11403
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 63230,
+    "stargazers_count": 63341,
     "open_issues_count": 54,
-    "forks_count": 5993
+    "forks_count": 6005
   },
   {
     "full_name": "Kaggle/kaggle-api",
-    "stargazers_count": 4965,
-    "open_issues_count": 229,
-    "forks_count": 964
+    "stargazers_count": 4972,
+    "open_issues_count": 230,
+    "forks_count": 965
   },
   {
     "full_name": "karpathy/nn-zero-to-hero",
-    "stargazers_count": 2896,
-    "open_issues_count": 5,
-    "forks_count": 138
-  },
-  {
-    "full_name": "julienditto/database_system",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "karpathy/micrograd",
-    "stargazers_count": 2806,
-    "open_issues_count": 11,
-    "forks_count": 262
-  },
-  {
-    "full_name": "kirel/detexify",
-    "stargazers_count": 686,
-    "open_issues_count": 17,
-    "forks_count": 51
-  },
-  {
-    "full_name": "microsoft/muzic",
-    "stargazers_count": 2319,
-    "open_issues_count": 21,
-    "forks_count": 190
-  },
-  {
-    "full_name": "Homebrew/brew",
-    "stargazers_count": 33599,
-    "open_issues_count": 49,
-    "forks_count": 8092
+    "stargazers_count": 2932,
+    "open_issues_count": 6,
+    "forks_count": 147
   }
 ]
