@@ -1,81 +1,93 @@
 [
   {
+    "full_name": "skiftOS/skift",
+    "stargazers_count": 1784,
+    "open_issues_count": 0,
+    "forks_count": 111
+  },
+  {
+    "full_name": "karpathy/arxiv-sanity-preserver",
+    "stargazers_count": 4738,
+    "open_issues_count": 89,
+    "forks_count": 1317
+  },
+  {
     "full_name": "vercel/turbo",
-    "stargazers_count": 14455,
-    "open_issues_count": 295,
-    "forks_count": 811
+    "stargazers_count": 15875,
+    "open_issues_count": 305,
+    "forks_count": 868
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 54654,
-    "open_issues_count": 8563,
-    "forks_count": 9539
+    "stargazers_count": 54772,
+    "open_issues_count": 8528,
+    "forks_count": 9566
   },
   {
     "full_name": "microsoft/Microsoft-3D-Movie-Maker",
-    "stargazers_count": 3533,
+    "stargazers_count": 3534,
     "open_issues_count": 0,
     "forks_count": 249
   },
   {
     "full_name": "formulahendry/vscode-code-runner",
-    "stargazers_count": 1852,
+    "stargazers_count": 1855,
     "open_issues_count": 543,
-    "forks_count": 255
+    "forks_count": 254
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 55519,
-    "open_issues_count": 2023,
-    "forks_count": 20200
+    "stargazers_count": 55573,
+    "open_issues_count": 2052,
+    "forks_count": 20257
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 24437,
-    "open_issues_count": 309,
-    "forks_count": 829
+    "stargazers_count": 24562,
+    "open_issues_count": 305,
+    "forks_count": 834
   },
   {
     "full_name": "toptal/gitignore.io",
-    "stargazers_count": 7330,
-    "open_issues_count": 7,
-    "forks_count": 594
+    "stargazers_count": 7339,
+    "open_issues_count": 9,
+    "forks_count": 597
   },
   {
     "full_name": "vercel/hyperpower",
-    "stargazers_count": 581,
+    "stargazers_count": 583,
     "open_issues_count": 33,
     "forks_count": 131
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 1517,
-    "open_issues_count": 18,
-    "forks_count": 124
+    "stargazers_count": 1536,
+    "open_issues_count": 19,
+    "forks_count": 127
   },
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 2820,
+    "stargazers_count": 2824,
     "open_issues_count": 12,
     "forks_count": 83
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 39553,
-    "open_issues_count": 853,
+    "stargazers_count": 39578,
+    "open_issues_count": 848,
     "forks_count": 3298
   },
   {
     "full_name": "vercel/vercel",
-    "stargazers_count": 9517,
-    "open_issues_count": 218,
-    "forks_count": 1437
+    "stargazers_count": 9541,
+    "open_issues_count": 226,
+    "forks_count": 1443
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 94900,
-    "open_issues_count": 1436,
-    "forks_count": 20850
+    "stargazers_count": 95399,
+    "open_issues_count": 1468,
+    "forks_count": 20927
   },
   {
     "full_name": "microsoft/vscode-extension-recommender",
@@ -85,63 +97,63 @@
   },
   {
     "full_name": "tonybaloney/vscode-pets",
-    "stargazers_count": 1322,
-    "open_issues_count": 46,
-    "forks_count": 216
+    "stargazers_count": 1339,
+    "open_issues_count": 49,
+    "forks_count": 218
   },
   {
     "full_name": "openai/spinningup",
-    "stargazers_count": 7305,
+    "stargazers_count": 7321,
     "open_issues_count": 192,
-    "forks_count": 1729
+    "forks_count": 1730
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 147552,
-    "open_issues_count": 284,
-    "forks_count": 38007
+    "stargazers_count": 147667,
+    "open_issues_count": 99,
+    "forks_count": 38096
   },
   {
     "full_name": "chubin/cheat.sh",
-    "stargazers_count": 30795,
-    "open_issues_count": 103,
-    "forks_count": 1542
+    "stargazers_count": 30932,
+    "open_issues_count": 104,
+    "forks_count": 1549
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7443,
-    "open_issues_count": 465,
-    "forks_count": 762
+    "stargazers_count": 7449,
+    "open_issues_count": 471,
+    "forks_count": 763
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 114294,
-    "open_issues_count": 199,
-    "forks_count": 11998
+    "stargazers_count": 114792,
+    "open_issues_count": 200,
+    "forks_count": 12027
   },
   {
     "full_name": "fastai/course22p2",
-    "stargazers_count": 97,
+    "stargazers_count": 101,
     "open_issues_count": 1,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "openai/openai-python",
-    "stargazers_count": 802,
+    "stargazers_count": 805,
     "open_issues_count": 9,
-    "forks_count": 263
+    "forks_count": 264
   },
   {
     "full_name": "nat/natbot",
-    "stargazers_count": 533,
+    "stargazers_count": 541,
     "open_issues_count": 4,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "jupyter/nbviewer",
-    "stargazers_count": 2022,
-    "open_issues_count": 174,
-    "forks_count": 524
+    "stargazers_count": 2024,
+    "open_issues_count": 173,
+    "forks_count": 526
   },
   {
     "full_name": "fastai/fastbook2e",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "fastai/fastdiffusion",
-    "stargazers_count": 123,
+    "stargazers_count": 125,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 12532,
-    "open_issues_count": 198,
-    "forks_count": 502
+    "stargazers_count": 12670,
+    "open_issues_count": 199,
+    "forks_count": 510
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 13579,
+    "stargazers_count": 13858,
     "open_issues_count": 9,
-    "forks_count": 1051
-  },
-  {
-    "full_name": "LeetCode-OpenSource/vscode-leetcode",
-    "stargazers_count": 7562,
-    "open_issues_count": 250,
-    "forks_count": 581
-  },
-  {
-    "full_name": "stripe/stripe-cli",
-    "stargazers_count": 1350,
-    "open_issues_count": 112,
-    "forks_count": 328
+    "forks_count": 1085
   }
 ]
