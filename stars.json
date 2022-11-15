@@ -1,93 +1,111 @@
 [
   {
+    "full_name": "charmbracelet/bubbletea",
+    "stargazers_count": 15867,
+    "open_issues_count": 54,
+    "forks_count": 469
+  },
+  {
+    "full_name": "toml-lang/toml",
+    "stargazers_count": 17660,
+    "open_issues_count": 23,
+    "forks_count": 858
+  },
+  {
+    "full_name": "ScoopInstaller/Scoop",
+    "stargazers_count": 16565,
+    "open_issues_count": 173,
+    "forks_count": 1281
+  },
+  {
     "full_name": "eslint/eslint",
-    "stargazers_count": 21581,
+    "stargazers_count": 21598,
     "open_issues_count": 126,
-    "forks_count": 3929
+    "forks_count": 3930
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 44208,
-    "open_issues_count": 1119,
-    "forks_count": 3594
+    "stargazers_count": 44236,
+    "open_issues_count": 1115,
+    "forks_count": 3604
   },
   {
     "full_name": "syl20bnr/spacemacs",
-    "stargazers_count": 22601,
-    "open_issues_count": 402,
-    "forks_count": 4938
+    "stargazers_count": 22605,
+    "open_issues_count": 396,
+    "forks_count": 4935
   },
   {
     "full_name": "rust-lang/rust-analyzer",
-    "stargazers_count": 10860,
-    "open_issues_count": 1203,
-    "forks_count": 1102
+    "stargazers_count": 10882,
+    "open_issues_count": 1186,
+    "forks_count": 1105
   },
   {
     "full_name": "DeepLcom/deepl-python",
-    "stargazers_count": 470,
-    "open_issues_count": 12,
+    "stargazers_count": 473,
+    "open_issues_count": 15,
     "forks_count": 39
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 1590,
+    "stargazers_count": 1595,
     "open_issues_count": 7,
-    "forks_count": 1122
+    "forks_count": 1123
   },
   {
     "full_name": "skiftOS/skift",
-    "stargazers_count": 1788,
+    "stargazers_count": 1794,
     "open_issues_count": 0,
     "forks_count": 111
   },
   {
     "full_name": "karpathy/arxiv-sanity-preserver",
-    "stargazers_count": 4743,
+    "stargazers_count": 4749,
     "open_issues_count": 89,
     "forks_count": 1315
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 17123,
-    "open_issues_count": 300,
-    "forks_count": 934
+    "stargazers_count": 17283,
+    "open_issues_count": 299,
+    "forks_count": 948
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 55041,
-    "open_issues_count": 8610,
-    "forks_count": 9606
+    "stargazers_count": 55132,
+    "open_issues_count": 8606,
+    "forks_count": 9620
   },
   {
     "full_name": "microsoft/Microsoft-3D-Movie-Maker",
-    "stargazers_count": 3557,
+    "stargazers_count": 3574,
     "open_issues_count": 0,
-    "forks_count": 249
+    "forks_count": 251
   },
   {
     "full_name": "formulahendry/vscode-code-runner",
-    "stargazers_count": 1855,
-    "open_issues_count": 545,
-    "forks_count": 256
+    "stargazers_count": 1858,
+    "open_issues_count": 546,
+    "forks_count": 258
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 55954,
-    "open_issues_count": 2144,
-    "forks_count": 20420
+    "stargazers_count": 56059,
+    "open_issues_count": 2166,
+    "forks_count": 20484
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 24781,
-    "open_issues_count": 333,
-    "forks_count": 838
+    "stargazers_count": 24827,
+    "open_issues_count": 337,
+    "forks_count": 837
   },
   {
     "full_name": "toptal/gitignore.io",
-    "stargazers_count": 7357,
+    "stargazers_count": 7365,
     "open_issues_count": 11,
-    "forks_count": 598
+    "forks_count": 596
   },
   {
     "full_name": "vercel/hyperpower",
@@ -97,86 +115,68 @@
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 1614,
+    "stargazers_count": 1636,
     "open_issues_count": 20,
-    "forks_count": 138
+    "forks_count": 142
   },
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 2893,
+    "stargazers_count": 2907,
     "open_issues_count": 11,
     "forks_count": 83
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 39648,
-    "open_issues_count": 846,
+    "stargazers_count": 39665,
+    "open_issues_count": 851,
     "forks_count": 3313
   },
   {
     "full_name": "vercel/vercel",
-    "stargazers_count": 9588,
-    "open_issues_count": 219,
-    "forks_count": 1463
+    "stargazers_count": 9608,
+    "open_issues_count": 216,
+    "forks_count": 1470
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 96125,
-    "open_issues_count": 1542,
-    "forks_count": 21120
+    "stargazers_count": 96363,
+    "open_issues_count": 1552,
+    "forks_count": 21176
   },
   {
     "full_name": "microsoft/vscode-extension-recommender",
     "stargazers_count": 16,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "tonybaloney/vscode-pets",
-    "stargazers_count": 1387,
-    "open_issues_count": 51,
-    "forks_count": 222
+    "stargazers_count": 1397,
+    "open_issues_count": 50,
+    "forks_count": 224
   },
   {
     "full_name": "openai/spinningup",
-    "stargazers_count": 7342,
-    "open_issues_count": 191,
-    "forks_count": 1733
+    "stargazers_count": 7345,
+    "open_issues_count": 193,
+    "forks_count": 1737
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 147980,
-    "open_issues_count": 107,
-    "forks_count": 38154
+    "stargazers_count": 148207,
+    "open_issues_count": 109,
+    "forks_count": 38188
   },
   {
     "full_name": "chubin/cheat.sh",
-    "stargazers_count": 31141,
+    "stargazers_count": 31190,
     "open_issues_count": 104,
-    "forks_count": 1555
+    "forks_count": 1556
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7482,
+    "stargazers_count": 7491,
     "open_issues_count": 459,
-    "forks_count": 771
-  },
-  {
-    "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 116153,
-    "open_issues_count": 195,
-    "forks_count": 12135
-  },
-  {
-    "full_name": "fastai/course22p2",
-    "stargazers_count": 107,
-    "open_issues_count": 2,
-    "forks_count": 35
-  },
-  {
-    "full_name": "openai/openai-python",
-    "stargazers_count": 846,
-    "open_issues_count": 10,
-    "forks_count": 269
+    "forks_count": 773
   }
 ]
