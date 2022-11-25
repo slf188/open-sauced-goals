@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "pandas-dev/pandas",
+    "stargazers_count": 36044,
+    "open_issues_count": 3689,
+    "forks_count": 15416
+  },
+  {
+    "full_name": "salesforce/CodeGen",
+    "stargazers_count": 1763,
+    "open_issues_count": 9,
+    "forks_count": 128
+  },
+  {
     "full_name": "mui/material-ui",
-    "stargazers_count": 82728,
-    "open_issues_count": 1298,
-    "forks_count": 28529
+    "stargazers_count": 82783,
+    "open_issues_count": 1302,
+    "forks_count": 28550
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 10787,
-    "open_issues_count": 9789,
-    "forks_count": 8720
+    "stargazers_count": 10812,
+    "open_issues_count": 9830,
+    "forks_count": 8743
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 82326,
-    "open_issues_count": 3913,
-    "forks_count": 4698
+    "stargazers_count": 82450,
+    "open_issues_count": 3860,
+    "forks_count": 4707
   },
   {
     "full_name": "RustBeginners/awesome-rust-mentors",
@@ -25,69 +37,69 @@
   },
   {
     "full_name": "ogham/exa",
-    "stargazers_count": 19846,
+    "stargazers_count": 19905,
     "open_issues_count": 281,
     "forks_count": 592
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10466,
+    "stargazers_count": 10488,
     "open_issues_count": 22,
-    "forks_count": 2442
+    "forks_count": 2445
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 15955,
+    "stargazers_count": 15994,
     "open_issues_count": 59,
     "forks_count": 475
   },
   {
     "full_name": "toml-lang/toml",
-    "stargazers_count": 17697,
+    "stargazers_count": 17713,
     "open_issues_count": 23,
-    "forks_count": 857
+    "forks_count": 859
   },
   {
     "full_name": "ScoopInstaller/Scoop",
-    "stargazers_count": 16595,
-    "open_issues_count": 169,
-    "forks_count": 1283
+    "stargazers_count": 16621,
+    "open_issues_count": 167,
+    "forks_count": 1282
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 21664,
-    "open_issues_count": 121,
-    "forks_count": 3940
+    "stargazers_count": 21710,
+    "open_issues_count": 124,
+    "forks_count": 3946
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 44293,
-    "open_issues_count": 1117,
-    "forks_count": 3611
+    "stargazers_count": 44314,
+    "open_issues_count": 1106,
+    "forks_count": 3616
   },
   {
     "full_name": "syl20bnr/spacemacs",
-    "stargazers_count": 22628,
-    "open_issues_count": 395,
-    "forks_count": 4938
+    "stargazers_count": 22635,
+    "open_issues_count": 394,
+    "forks_count": 4936
   },
   {
     "full_name": "rust-lang/rust-analyzer",
-    "stargazers_count": 10919,
-    "open_issues_count": 1195,
-    "forks_count": 1112
+    "stargazers_count": 10931,
+    "open_issues_count": 1193,
+    "forks_count": 1115
   },
   {
     "full_name": "DeepLcom/deepl-python",
-    "stargazers_count": 479,
+    "stargazers_count": 483,
     "open_issues_count": 16,
     "forks_count": 40
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 1601,
-    "open_issues_count": 4,
-    "forks_count": 1132
+    "stargazers_count": 1603,
+    "open_issues_count": 2,
+    "forks_count": 1138
   },
   {
     "full_name": "skiftOS/skift",
@@ -99,48 +111,48 @@
     "full_name": "karpathy/arxiv-sanity-preserver",
     "stargazers_count": 4756,
     "open_issues_count": 89,
-    "forks_count": 1315
+    "forks_count": 1316
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 17589,
-    "open_issues_count": 321,
-    "forks_count": 971
+    "stargazers_count": 17698,
+    "open_issues_count": 340,
+    "forks_count": 982
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 55326,
-    "open_issues_count": 8622,
-    "forks_count": 9657
+    "stargazers_count": 55403,
+    "open_issues_count": 8621,
+    "forks_count": 9670
   },
   {
     "full_name": "microsoft/Microsoft-3D-Movie-Maker",
-    "stargazers_count": 3576,
+    "stargazers_count": 3577,
     "open_issues_count": 0,
     "forks_count": 251
   },
   {
     "full_name": "formulahendry/vscode-code-runner",
     "stargazers_count": 1865,
-    "open_issues_count": 551,
+    "open_issues_count": 552,
     "forks_count": 258
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 56196,
-    "open_issues_count": 2187,
-    "forks_count": 20583
+    "stargazers_count": 56236,
+    "open_issues_count": 2157,
+    "forks_count": 20616
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 24897,
-    "open_issues_count": 336,
-    "forks_count": 843
+    "stargazers_count": 24930,
+    "open_issues_count": 339,
+    "forks_count": 846
   },
   {
     "full_name": "toptal/gitignore.io",
-    "stargazers_count": 7376,
-    "open_issues_count": 10,
+    "stargazers_count": 7377,
+    "open_issues_count": 11,
     "forks_count": 592
   },
   {
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 1670,
+    "stargazers_count": 1686,
     "open_issues_count": 21,
-    "forks_count": 146
+    "forks_count": 148
   },
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 2936,
-    "open_issues_count": 10,
+    "stargazers_count": 2948,
+    "open_issues_count": 12,
     "forks_count": 85
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 39699,
-    "open_issues_count": 853,
-    "forks_count": 3314
-  },
-  {
-    "full_name": "vercel/vercel",
-    "stargazers_count": 9629,
-    "open_issues_count": 209,
-    "forks_count": 1479
-  },
-  {
-    "full_name": "vercel/next.js",
-    "stargazers_count": 96693,
-    "open_issues_count": 1586,
-    "forks_count": 21275
+    "stargazers_count": 39718,
+    "open_issues_count": 850,
+    "forks_count": 3312
   }
 ]
