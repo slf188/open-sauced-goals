@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "aimacode/aima-python",
+    "stargazers_count": 6783,
+    "open_issues_count": 204,
+    "forks_count": 3296
+  },
+  {
+    "full_name": "apple/ml-stable-diffusion",
+    "stargazers_count": 3462,
+    "open_issues_count": 37,
+    "forks_count": 112
+  },
+  {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 16675,
-    "open_issues_count": 884,
-    "forks_count": 1069
+    "stargazers_count": 16734,
+    "open_issues_count": 885,
+    "forks_count": 1081
   },
   {
     "full_name": "BurntSushi/ripgrep",
-    "stargazers_count": 34521,
+    "stargazers_count": 34569,
     "open_issues_count": 176,
-    "forks_count": 1544
+    "forks_count": 1547
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 9471,
-    "open_issues_count": 304,
-    "forks_count": 525
+    "stargazers_count": 9542,
+    "open_issues_count": 302,
+    "forks_count": 531
   },
   {
     "full_name": "facebook/hhvm",
-    "stargazers_count": 17491,
-    "open_issues_count": 668,
+    "stargazers_count": 17490,
+    "open_issues_count": 669,
     "forks_count": 3018
   },
   {
     "full_name": "python/mypy",
-    "stargazers_count": 14249,
-    "open_issues_count": 2310,
-    "forks_count": 2371
+    "stargazers_count": 14275,
+    "open_issues_count": 2324,
+    "forks_count": 2372
   },
   {
     "full_name": "Stability-AI/stablediffusion",
-    "stargazers_count": 5637,
-    "open_issues_count": 52,
-    "forks_count": 353
+    "stargazers_count": 6087,
+    "open_issues_count": 57,
+    "forks_count": 409
   },
   {
     "full_name": "pandas-dev/pandas",
-    "stargazers_count": 36111,
-    "open_issues_count": 3675,
-    "forks_count": 15443
+    "stargazers_count": 36156,
+    "open_issues_count": 3687,
+    "forks_count": 15470
   },
   {
     "full_name": "salesforce/CodeGen",
-    "stargazers_count": 1777,
-    "open_issues_count": 9,
-    "forks_count": 130
+    "stargazers_count": 1793,
+    "open_issues_count": 10,
+    "forks_count": 132
   },
   {
     "full_name": "mui/material-ui",
-    "stargazers_count": 82923,
-    "open_issues_count": 1299,
-    "forks_count": 28590
+    "stargazers_count": 82986,
+    "open_issues_count": 1310,
+    "forks_count": 28615
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 10862,
-    "open_issues_count": 9824,
-    "forks_count": 8780
+    "stargazers_count": 10884,
+    "open_issues_count": 9854,
+    "forks_count": 8796
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 82695,
-    "open_issues_count": 3888,
-    "forks_count": 4726
+    "stargazers_count": 82902,
+    "open_issues_count": 3922,
+    "forks_count": 4743
   },
   {
     "full_name": "RustBeginners/awesome-rust-mentors",
-    "stargazers_count": 696,
-    "open_issues_count": 9,
-    "forks_count": 68
+    "stargazers_count": 697,
+    "open_issues_count": 7,
+    "forks_count": 69
   },
   {
     "full_name": "ogham/exa",
-    "stargazers_count": 19983,
-    "open_issues_count": 279,
-    "forks_count": 595
+    "stargazers_count": 20003,
+    "open_issues_count": 280,
+    "forks_count": 597
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10534,
+    "stargazers_count": 10549,
     "open_issues_count": 23,
-    "forks_count": 2455
+    "forks_count": 2459
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 16087,
-    "open_issues_count": 59,
-    "forks_count": 481
+    "stargazers_count": 16122,
+    "open_issues_count": 61,
+    "forks_count": 483
   },
   {
     "full_name": "toml-lang/toml",
-    "stargazers_count": 17739,
+    "stargazers_count": 17752,
     "open_issues_count": 23,
-    "forks_count": 863
+    "forks_count": 864
   },
   {
     "full_name": "ScoopInstaller/Scoop",
-    "stargazers_count": 16658,
-    "open_issues_count": 170,
-    "forks_count": 1285
+    "stargazers_count": 16679,
+    "open_issues_count": 171,
+    "forks_count": 1283
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 21791,
-    "open_issues_count": 120,
-    "forks_count": 3953
+    "stargazers_count": 21811,
+    "open_issues_count": 127,
+    "forks_count": 3960
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 44376,
-    "open_issues_count": 1117,
-    "forks_count": 3631
+    "stargazers_count": 44390,
+    "open_issues_count": 1116,
+    "forks_count": 3632
   },
   {
     "full_name": "syl20bnr/spacemacs",
-    "stargazers_count": 22645,
-    "open_issues_count": 386,
-    "forks_count": 4938
+    "stargazers_count": 22650,
+    "open_issues_count": 387,
+    "forks_count": 4939
   },
   {
     "full_name": "rust-lang/rust-analyzer",
-    "stargazers_count": 10979,
-    "open_issues_count": 1199,
-    "forks_count": 1117
+    "stargazers_count": 10996,
+    "open_issues_count": 1211,
+    "forks_count": 1120
   },
   {
     "full_name": "DeepLcom/deepl-python",
-    "stargazers_count": 491,
+    "stargazers_count": 492,
     "open_issues_count": 16,
     "forks_count": 40
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 1608,
+    "stargazers_count": 1611,
     "open_issues_count": 3,
     "forks_count": 1143
   },
   {
     "full_name": "skiftOS/skift",
-    "stargazers_count": 1803,
+    "stargazers_count": 1808,
     "open_issues_count": 0,
     "forks_count": 112
   },
   {
     "full_name": "karpathy/arxiv-sanity-preserver",
-    "stargazers_count": 4757,
+    "stargazers_count": 4758,
     "open_issues_count": 89,
     "forks_count": 1315
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 17864,
-    "open_issues_count": 350,
-    "forks_count": 991
+    "stargazers_count": 17933,
+    "open_issues_count": 347,
+    "forks_count": 1003
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 55636,
-    "open_issues_count": 8663,
-    "forks_count": 9706
+    "stargazers_count": 55747,
+    "open_issues_count": 8667,
+    "forks_count": 9718
   },
   {
     "full_name": "microsoft/Microsoft-3D-Movie-Maker",
     "stargazers_count": 3578,
     "open_issues_count": 0,
-    "forks_count": 251
-  },
-  {
-    "full_name": "formulahendry/vscode-code-runner",
-    "stargazers_count": 1866,
-    "open_issues_count": 553,
-    "forks_count": 261
-  },
-  {
-    "full_name": "home-assistant/core",
-    "stargazers_count": 56377,
-    "open_issues_count": 2137,
-    "forks_count": 20732
+    "forks_count": 249
   }
 ]
