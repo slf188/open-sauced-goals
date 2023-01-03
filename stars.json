@@ -1,93 +1,99 @@
 [
   {
+    "full_name": "karpathy/nanoGPT",
+    "stargazers_count": 1474,
+    "open_issues_count": 4,
+    "forks_count": 71
+  },
+  {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 116091,
-    "open_issues_count": 4809,
-    "forks_count": 8476
+    "stargazers_count": 116277,
+    "open_issues_count": 4813,
+    "forks_count": 8490
   },
   {
     "full_name": "openai/point-e",
-    "stargazers_count": 3435,
-    "open_issues_count": 33,
-    "forks_count": 285
+    "stargazers_count": 3586,
+    "open_issues_count": 35,
+    "forks_count": 299
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 30480,
-    "open_issues_count": 316,
-    "forks_count": 1732
+    "stargazers_count": 30549,
+    "open_issues_count": 317,
+    "forks_count": 1733
   },
   {
     "full_name": "atom/atom",
-    "stargazers_count": 58991,
+    "stargazers_count": 58998,
     "open_issues_count": 1006,
-    "forks_count": 18249
+    "forks_count": 18248
   },
   {
     "full_name": "pytorch/vision",
-    "stargazers_count": 13038,
+    "stargazers_count": 13052,
     "open_issues_count": 828,
-    "forks_count": 6422
+    "forks_count": 6431
   },
   {
     "full_name": "tqdm/tqdm",
-    "stargazers_count": 23660,
+    "stargazers_count": 23675,
     "open_issues_count": 405,
     "forks_count": 1202
   },
   {
     "full_name": "apple/ml-stable-diffusion",
-    "stargazers_count": 4594,
-    "open_issues_count": 63,
-    "forks_count": 183
+    "stargazers_count": 4797,
+    "open_issues_count": 66,
+    "forks_count": 191
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 17540,
-    "open_issues_count": 956,
-    "forks_count": 1151
+    "stargazers_count": 17628,
+    "open_issues_count": 971,
+    "forks_count": 1161
   },
   {
     "full_name": "BurntSushi/ripgrep",
-    "stargazers_count": 34970,
-    "open_issues_count": 180,
-    "forks_count": 1562
+    "stargazers_count": 35015,
+    "open_issues_count": 183,
+    "forks_count": 1565
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 10798,
-    "open_issues_count": 331,
-    "forks_count": 569
+    "stargazers_count": 11243,
+    "open_issues_count": 328,
+    "forks_count": 579
   },
   {
     "full_name": "python/mypy",
-    "stargazers_count": 14394,
-    "open_issues_count": 2353,
-    "forks_count": 2389
+    "stargazers_count": 14416,
+    "open_issues_count": 2350,
+    "forks_count": 2390
   },
   {
     "full_name": "Stability-AI/stablediffusion",
-    "stargazers_count": 8776,
-    "open_issues_count": 75,
-    "forks_count": 760
+    "stargazers_count": 8998,
+    "open_issues_count": 74,
+    "forks_count": 793
   },
   {
     "full_name": "pandas-dev/pandas",
-    "stargazers_count": 36368,
-    "open_issues_count": 3686,
-    "forks_count": 15559
+    "stargazers_count": 36397,
+    "open_issues_count": 3703,
+    "forks_count": 15582
   },
   {
     "full_name": "salesforce/CodeGen",
-    "stargazers_count": 1885,
+    "stargazers_count": 1904,
     "open_issues_count": 12,
     "forks_count": 139
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 11058,
-    "open_issues_count": 10224,
-    "forks_count": 8927
+    "stargazers_count": 11081,
+    "open_issues_count": 10207,
+    "forks_count": 8947
   },
   {
     "full_name": "RustBeginners/awesome-rust-mentors",
@@ -97,45 +103,45 @@
   },
   {
     "full_name": "ogham/exa",
-    "stargazers_count": 20198,
+    "stargazers_count": 20224,
     "open_issues_count": 285,
-    "forks_count": 606
+    "forks_count": 607
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10639,
+    "stargazers_count": 10645,
     "open_issues_count": 23,
     "forks_count": 2465
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 16381,
+    "stargazers_count": 16407,
     "open_issues_count": 65,
-    "forks_count": 500
+    "forks_count": 502
   },
   {
     "full_name": "toml-lang/toml",
-    "stargazers_count": 17829,
+    "stargazers_count": 17837,
     "open_issues_count": 22,
-    "forks_count": 864
+    "forks_count": 866
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 21941,
-    "open_issues_count": 129,
-    "forks_count": 3988
+    "stargazers_count": 21949,
+    "open_issues_count": 130,
+    "forks_count": 3995
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 44541,
-    "open_issues_count": 1134,
-    "forks_count": 3673
+    "stargazers_count": 44549,
+    "open_issues_count": 1141,
+    "forks_count": 3675
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 1649,
-    "open_issues_count": 5,
-    "forks_count": 1166
+    "stargazers_count": 1652,
+    "open_issues_count": 6,
+    "forks_count": 1173
   },
   {
     "full_name": "skiftOS/skift",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "formulahendry/vscode-code-runner",
-    "stargazers_count": 1879,
-    "open_issues_count": 561,
+    "stargazers_count": 1878,
+    "open_issues_count": 562,
     "forks_count": 260
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 56950,
-    "open_issues_count": 2339,
-    "forks_count": 21186
+    "stargazers_count": 57031,
+    "open_issues_count": 2310,
+    "forks_count": 21259
   },
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 3028,
+    "stargazers_count": 3032,
     "open_issues_count": 15,
-    "forks_count": 85
+    "forks_count": 86
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 39896,
-    "open_issues_count": 859,
-    "forks_count": 3328
+    "stargazers_count": 39961,
+    "open_issues_count": 860,
+    "forks_count": 3335
   },
   {
     "full_name": "vercel/vercel",
-    "stargazers_count": 9758,
-    "open_issues_count": 200,
-    "forks_count": 1545
-  },
-  {
-    "full_name": "vercel/next.js",
-    "stargazers_count": 98279,
-    "open_issues_count": 1669,
-    "forks_count": 21812
+    "stargazers_count": 9772,
+    "open_issues_count": 201,
+    "forks_count": 1543
   }
 ]
