@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "OptiKey/OptiKey",
+    "stargazers_count": 4000,
+    "open_issues_count": 94,
+    "forks_count": 505
+  },
+  {
     "full_name": "huggingface/accelerate",
-    "stargazers_count": 3584,
-    "open_issues_count": 68,
-    "forks_count": 316
+    "stargazers_count": 3604,
+    "open_issues_count": 65,
+    "forks_count": 323
   },
   {
     "full_name": "openai/triton",
-    "stargazers_count": 5098,
-    "open_issues_count": 166,
-    "forks_count": 431
+    "stargazers_count": 5157,
+    "open_issues_count": 173,
+    "forks_count": 439
   },
   {
     "full_name": "MicrosoftDocs/azure-docs",
-    "stargazers_count": 8389,
-    "open_issues_count": 5110,
-    "forks_count": 18584
+    "stargazers_count": 8397,
+    "open_issues_count": 5097,
+    "forks_count": 18620
   },
   {
     "full_name": "karpathy/ng-video-lecture",
-    "stargazers_count": 1063,
+    "stargazers_count": 1097,
     "open_issues_count": 6,
-    "forks_count": 162
+    "forks_count": 174
   },
   {
     "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 10328,
+    "stargazers_count": 11265,
     "open_issues_count": 49,
-    "forks_count": 731
+    "forks_count": 824
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 116959,
-    "open_issues_count": 4781,
-    "forks_count": 8553
+    "stargazers_count": 117036,
+    "open_issues_count": 4761,
+    "forks_count": 8565
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 31243,
-    "open_issues_count": 356,
-    "forks_count": 1774
+    "stargazers_count": 31352,
+    "open_issues_count": 359,
+    "forks_count": 1785
   },
   {
     "full_name": "atom/atom",
-    "stargazers_count": 59058,
+    "stargazers_count": 59062,
     "open_issues_count": 1002,
-    "forks_count": 18265
+    "forks_count": 18267
   },
   {
     "full_name": "pytorch/vision",
-    "stargazers_count": 13175,
-    "open_issues_count": 848,
-    "forks_count": 6475
+    "stargazers_count": 13196,
+    "open_issues_count": 849,
+    "forks_count": 6484
   },
   {
     "full_name": "tqdm/tqdm",
-    "stargazers_count": 23869,
-    "open_issues_count": 411,
-    "forks_count": 1215
+    "stargazers_count": 23900,
+    "open_issues_count": 413,
+    "forks_count": 1218
   },
   {
     "full_name": "apple/ml-stable-diffusion",
-    "stargazers_count": 5125,
+    "stargazers_count": 5182,
     "open_issues_count": 80,
-    "forks_count": 219
+    "forks_count": 224
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 18627,
-    "open_issues_count": 1009,
-    "forks_count": 1252
+    "stargazers_count": 18702,
+    "open_issues_count": 1001,
+    "forks_count": 1258
   },
   {
     "full_name": "BurntSushi/ripgrep",
-    "stargazers_count": 35487,
+    "stargazers_count": 35576,
     "open_issues_count": 190,
-    "forks_count": 1590
+    "forks_count": 1593
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 13219,
-    "open_issues_count": 426,
-    "forks_count": 660
+    "stargazers_count": 13365,
+    "open_issues_count": 432,
+    "forks_count": 665
   },
   {
     "full_name": "python/mypy",
-    "stargazers_count": 14724,
-    "open_issues_count": 2391,
-    "forks_count": 2427
+    "stargazers_count": 14749,
+    "open_issues_count": 2387,
+    "forks_count": 2431
   },
   {
     "full_name": "Stability-AI/stablediffusion",
-    "stargazers_count": 10494,
-    "open_issues_count": 98,
-    "forks_count": 1067
+    "stargazers_count": 10650,
+    "open_issues_count": 100,
+    "forks_count": 1102
   },
   {
     "full_name": "pandas-dev/pandas",
-    "stargazers_count": 36711,
-    "open_issues_count": 3707,
-    "forks_count": 15692
+    "stargazers_count": 36744,
+    "open_issues_count": 3693,
+    "forks_count": 15701
   },
   {
     "full_name": "salesforce/CodeGen",
-    "stargazers_count": 2064,
+    "stargazers_count": 2083,
     "open_issues_count": 14,
-    "forks_count": 156
+    "forks_count": 159
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 11307,
-    "open_issues_count": 9786,
-    "forks_count": 9110
+    "stargazers_count": 11341,
+    "open_issues_count": 9667,
+    "forks_count": 9129
   },
   {
     "full_name": "ogham/exa",
-    "stargazers_count": 20558,
+    "stargazers_count": 20593,
     "open_issues_count": 289,
-    "forks_count": 608
+    "forks_count": 609
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10735,
+    "stargazers_count": 10745,
     "open_issues_count": 24,
-    "forks_count": 2467
+    "forks_count": 2468
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 16745,
-    "open_issues_count": 66,
+    "stargazers_count": 16792,
+    "open_issues_count": 67,
     "forks_count": 520
   },
   {
     "full_name": "toml-lang/toml",
-    "stargazers_count": 17967,
+    "stargazers_count": 17976,
     "open_issues_count": 22,
     "forks_count": 871
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 22116,
+    "stargazers_count": 22133,
     "open_issues_count": 145,
-    "forks_count": 4030
+    "forks_count": 4039
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 44741,
-    "open_issues_count": 1158,
+    "stargazers_count": 44773,
+    "open_issues_count": 1160,
     "forks_count": 3721
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 1684,
+    "stargazers_count": 1690,
     "open_issues_count": 5,
-    "forks_count": 1195
+    "forks_count": 1201
   },
   {
     "full_name": "skift-org/skift",
-    "stargazers_count": 1847,
+    "stargazers_count": 1849,
     "open_issues_count": 0,
     "forks_count": 117
   },
   {
     "full_name": "formulahendry/vscode-code-runner",
-    "stargazers_count": 1893,
-    "open_issues_count": 574,
+    "stargazers_count": 1890,
+    "open_issues_count": 575,
     "forks_count": 262
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 57647,
-    "open_issues_count": 2403,
-    "forks_count": 21701
-  },
-  {
-    "full_name": "gerardog/gsudo",
-    "stargazers_count": 3117,
-    "open_issues_count": 18,
-    "forks_count": 86
+    "stargazers_count": 57736,
+    "open_issues_count": 2442,
+    "forks_count": 21760
   }
 ]
