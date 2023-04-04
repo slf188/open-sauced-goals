@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "Torantulino/Auto-GPT",
+    "stargazers_count": 5205,
+    "open_issues_count": 79,
+    "forks_count": 453
+  },
+  {
+    "full_name": "twitter/the-algorithm-ml",
+    "stargazers_count": 7082,
+    "open_issues_count": 45,
+    "forks_count": 1640
+  },
+  {
+    "full_name": "twitter/the-algorithm",
+    "stargazers_count": 44793,
+    "open_issues_count": 407,
+    "forks_count": 8588
+  },
+  {
     "full_name": "mlfoundations/open_flamingo",
-    "stargazers_count": 1038,
+    "stargazers_count": 1350,
     "open_issues_count": 34,
-    "forks_count": 46
+    "forks_count": 74
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 11811,
-    "open_issues_count": 61,
-    "forks_count": 1422
+    "stargazers_count": 12650,
+    "open_issues_count": 63,
+    "forks_count": 1605
   },
   {
     "full_name": "NVIDIA/cuda-samples",
-    "stargazers_count": 3264,
-    "open_issues_count": 100,
-    "forks_count": 1204
+    "stargazers_count": 3289,
+    "open_issues_count": 101,
+    "forks_count": 1213
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 7175,
-    "open_issues_count": 331,
-    "forks_count": 1136
+    "stargazers_count": 7473,
+    "open_issues_count": 374,
+    "forks_count": 1214
   },
   {
     "full_name": "tatsu-lab/stanford_alpaca",
-    "stargazers_count": 16896,
-    "open_issues_count": 87,
-    "forks_count": 2312
+    "stargazers_count": 18022,
+    "open_issues_count": 98,
+    "forks_count": 2526
   },
   {
     "full_name": "microsoft/visual-chatgpt",
-    "stargazers_count": 27570,
-    "open_issues_count": 142,
-    "forks_count": 2460
+    "stargazers_count": 28922,
+    "open_issues_count": 153,
+    "forks_count": 2603
   },
   {
     "full_name": "ggerganov/llama.cpp",
-    "stargazers_count": 15905,
-    "open_issues_count": 127,
-    "forks_count": 2236
+    "stargazers_count": 18696,
+    "open_issues_count": 174,
+    "forks_count": 2579
   },
   {
     "full_name": "gencay/vscode-chatgpt",
-    "stargazers_count": 2845,
-    "open_issues_count": 1,
-    "forks_count": 700
+    "stargazers_count": 2935,
+    "open_issues_count": 2,
+    "forks_count": 721
   },
   {
     "full_name": "mnielsen/neural-networks-and-deep-learning",
-    "stargazers_count": 14214,
+    "stargazers_count": 14247,
     "open_issues_count": 7,
-    "forks_count": 6212
+    "forks_count": 6223
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 23002,
-    "open_issues_count": 140,
-    "forks_count": 658
+    "stargazers_count": 23079,
+    "open_issues_count": 139,
+    "forks_count": 661
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 15192,
-    "open_issues_count": 179,
-    "forks_count": 2378
+    "stargazers_count": 16064,
+    "open_issues_count": 185,
+    "forks_count": 2531
   },
   {
     "full_name": "o2sh/onefetch",
-    "stargazers_count": 7529,
+    "stargazers_count": 7543,
     "open_issues_count": 27,
-    "forks_count": 222
+    "forks_count": 224
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 19251,
-    "open_issues_count": 8,
-    "forks_count": 1488
+    "stargazers_count": 20569,
+    "open_issues_count": 13,
+    "forks_count": 1636
   },
   {
     "full_name": "LAION-AI/Open-Assistant",
-    "stargazers_count": 20147,
-    "open_issues_count": 368,
-    "forks_count": 1528
+    "stargazers_count": 20377,
+    "open_issues_count": 377,
+    "forks_count": 1538
   },
   {
     "full_name": "OptiKey/OptiKey",
-    "stargazers_count": 4057,
+    "stargazers_count": 4061,
     "open_issues_count": 98,
     "forks_count": 508
   },
   {
     "full_name": "huggingface/accelerate",
-    "stargazers_count": 4062,
-    "open_issues_count": 84,
-    "forks_count": 386
+    "stargazers_count": 4091,
+    "open_issues_count": 85,
+    "forks_count": 393
   },
   {
     "full_name": "openai/triton",
-    "stargazers_count": 6052,
+    "stargazers_count": 6125,
     "open_issues_count": 172,
-    "forks_count": 574
+    "forks_count": 584
   },
   {
     "full_name": "MicrosoftDocs/azure-docs",
-    "stargazers_count": 8668,
-    "open_issues_count": 4804,
-    "forks_count": 19185
+    "stargazers_count": 8678,
+    "open_issues_count": 4782,
+    "forks_count": 19210
   },
   {
     "full_name": "karpathy/ng-video-lecture",
-    "stargazers_count": 1595,
+    "stargazers_count": 1615,
     "open_issues_count": 11,
-    "forks_count": 343
+    "forks_count": 351
   },
   {
     "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 16566,
-    "open_issues_count": 124,
-    "forks_count": 1800
+    "stargazers_count": 16856,
+    "open_issues_count": 126,
+    "forks_count": 1855
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 119120,
-    "open_issues_count": 4733,
-    "forks_count": 8814
+    "stargazers_count": 119206,
+    "open_issues_count": 4736,
+    "forks_count": 8826
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 33191,
-    "open_issues_count": 453,
-    "forks_count": 1957
+    "stargazers_count": 33273,
+    "open_issues_count": 454,
+    "forks_count": 1970
   },
   {
     "full_name": "atom/atom",
-    "stargazers_count": 59259,
+    "stargazers_count": 59274,
     "open_issues_count": 1001,
-    "forks_count": 18346
+    "forks_count": 18355
   },
   {
     "full_name": "pytorch/vision",
-    "stargazers_count": 13614,
-    "open_issues_count": 896,
-    "forks_count": 6609
+    "stargazers_count": 13640,
+    "open_issues_count": 903,
+    "forks_count": 6619
   },
   {
     "full_name": "tqdm/tqdm",
-    "stargazers_count": 24369,
-    "open_issues_count": 434,
-    "forks_count": 1257
+    "stargazers_count": 24404,
+    "open_issues_count": 435,
+    "forks_count": 1258
   },
   {
     "full_name": "apple/ml-stable-diffusion",
-    "stargazers_count": 6208,
-    "open_issues_count": 97,
-    "forks_count": 300
+    "stargazers_count": 9434,
+    "open_issues_count": 96,
+    "forks_count": 418
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 20200,
-    "open_issues_count": 1064,
-    "forks_count": 1399
-  },
-  {
-    "full_name": "BurntSushi/ripgrep",
-    "stargazers_count": 36894,
-    "open_issues_count": 207,
-    "forks_count": 1649
-  },
-  {
-    "full_name": "pola-rs/polars",
-    "stargazers_count": 15816,
-    "open_issues_count": 627,
-    "forks_count": 803
-  },
-  {
-    "full_name": "python/mypy",
-    "stargazers_count": 15087,
-    "open_issues_count": 2521,
-    "forks_count": 2483
+    "stargazers_count": 20709,
+    "open_issues_count": 1080,
+    "forks_count": 1429
   }
 ]
