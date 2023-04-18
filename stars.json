@@ -1,182 +1,182 @@
 [
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 60360,
-    "open_issues_count": 9344,
-    "forks_count": 10541
+    "stargazers_count": 60474,
+    "open_issues_count": 9404,
+    "forks_count": 10625
   },
   {
     "full_name": "asterisk/asterisk",
-    "stargazers_count": 1434,
+    "stargazers_count": 1437,
     "open_issues_count": 0,
-    "forks_count": 802
+    "forks_count": 804
   },
   {
     "full_name": "fastai/nbdev",
-    "stargazers_count": 4226,
-    "open_issues_count": 115,
+    "stargazers_count": 4270,
+    "open_issues_count": 116,
     "forks_count": 434
   },
   {
-    "full_name": "Torantulino/Auto-GPT",
-    "stargazers_count": 49263,
-    "open_issues_count": 500,
-    "forks_count": 6598
+    "full_name": "Significant-Gravitas/Auto-GPT",
+    "stargazers_count": 86160,
+    "open_issues_count": 700,
+    "forks_count": 13016
   },
   {
     "full_name": "twitter/the-algorithm-ml",
-    "stargazers_count": 8816,
-    "open_issues_count": 50,
-    "forks_count": 2081
+    "stargazers_count": 8983,
+    "open_issues_count": 51,
+    "forks_count": 2106
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 54602,
-    "open_issues_count": 313,
-    "forks_count": 11279
+    "stargazers_count": 55181,
+    "open_issues_count": 321,
+    "forks_count": 11430
   },
   {
     "full_name": "mlfoundations/open_flamingo",
-    "stargazers_count": 1639,
-    "open_issues_count": 37,
-    "forks_count": 98
+    "stargazers_count": 1701,
+    "open_issues_count": 39,
+    "forks_count": 107
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 14008,
-    "open_issues_count": 104,
-    "forks_count": 1990
+    "stargazers_count": 14345,
+    "open_issues_count": 112,
+    "forks_count": 2062
   },
   {
     "full_name": "NVIDIA/cuda-samples",
-    "stargazers_count": 3339,
+    "stargazers_count": 3358,
     "open_issues_count": 103,
-    "forks_count": 1231
+    "forks_count": 1236
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 8092,
-    "open_issues_count": 403,
-    "forks_count": 1382
+    "stargazers_count": 8316,
+    "open_issues_count": 435,
+    "forks_count": 1439
   },
   {
     "full_name": "tatsu-lab/stanford_alpaca",
-    "stargazers_count": 20347,
-    "open_issues_count": 122,
-    "forks_count": 2925
+    "stargazers_count": 20907,
+    "open_issues_count": 133,
+    "forks_count": 2991
   },
   {
     "full_name": "microsoft/visual-chatgpt",
-    "stargazers_count": 30876,
-    "open_issues_count": 178,
-    "forks_count": 2864
+    "stargazers_count": 31316,
+    "open_issues_count": 179,
+    "forks_count": 2932
   },
   {
     "full_name": "ggerganov/llama.cpp",
-    "stargazers_count": 22526,
-    "open_issues_count": 210,
-    "forks_count": 3251
+    "stargazers_count": 23292,
+    "open_issues_count": 207,
+    "forks_count": 3373
   },
   {
     "full_name": "gencay/vscode-chatgpt",
-    "stargazers_count": 3131,
+    "stargazers_count": 3177,
     "open_issues_count": 3,
-    "forks_count": 745
+    "forks_count": 753
   },
   {
     "full_name": "mnielsen/neural-networks-and-deep-learning",
-    "stargazers_count": 14288,
+    "stargazers_count": 14301,
     "open_issues_count": 7,
-    "forks_count": 6234
+    "forks_count": 6236
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 23171,
-    "open_issues_count": 118,
-    "forks_count": 659
+    "stargazers_count": 23182,
+    "open_issues_count": 117,
+    "forks_count": 663
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 18172,
-    "open_issues_count": 195,
-    "forks_count": 2892
+    "stargazers_count": 18591,
+    "open_issues_count": 202,
+    "forks_count": 2980
   },
   {
     "full_name": "o2sh/onefetch",
-    "stargazers_count": 7589,
+    "stargazers_count": 7618,
     "open_issues_count": 26,
-    "forks_count": 224
+    "forks_count": 226
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 24867,
-    "open_issues_count": 27,
-    "forks_count": 2000
+    "stargazers_count": 25632,
+    "open_issues_count": 28,
+    "forks_count": 2073
   },
   {
     "full_name": "LAION-AI/Open-Assistant",
-    "stargazers_count": 22250,
-    "open_issues_count": 406,
-    "forks_count": 1701
+    "stargazers_count": 26149,
+    "open_issues_count": 460,
+    "forks_count": 2066
   },
   {
     "full_name": "OptiKey/OptiKey",
-    "stargazers_count": 4126,
+    "stargazers_count": 4139,
     "open_issues_count": 100,
     "forks_count": 513
   },
   {
     "full_name": "huggingface/accelerate",
-    "stargazers_count": 4201,
-    "open_issues_count": 89,
-    "forks_count": 412
+    "stargazers_count": 4242,
+    "open_issues_count": 91,
+    "forks_count": 415
   },
   {
     "full_name": "openai/triton",
-    "stargazers_count": 6302,
-    "open_issues_count": 183,
-    "forks_count": 612
+    "stargazers_count": 6368,
+    "open_issues_count": 186,
+    "forks_count": 619
   },
   {
     "full_name": "MicrosoftDocs/azure-docs",
-    "stargazers_count": 8721,
-    "open_issues_count": 4875,
-    "forks_count": 19561
+    "stargazers_count": 8738,
+    "open_issues_count": 4820,
+    "forks_count": 19590
   },
   {
     "full_name": "karpathy/ng-video-lecture",
-    "stargazers_count": 1687,
+    "stargazers_count": 1714,
     "open_issues_count": 12,
-    "forks_count": 372
+    "forks_count": 378
   },
   {
     "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 17453,
+    "stargazers_count": 17705,
     "open_issues_count": 112,
-    "forks_count": 1974
+    "forks_count": 2023
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 119525,
-    "open_issues_count": 4734,
-    "forks_count": 8886
+    "stargazers_count": 119646,
+    "open_issues_count": 4737,
+    "forks_count": 8899
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 33591,
-    "open_issues_count": 475,
-    "forks_count": 2011
+    "stargazers_count": 33704,
+    "open_issues_count": 489,
+    "forks_count": 2019
   },
   {
     "full_name": "atom/atom",
     "stargazers_count": 59294,
     "open_issues_count": 1001,
-    "forks_count": 18355
+    "forks_count": 18345
   },
   {
     "full_name": "pytorch/vision",
-    "stargazers_count": 13722,
-    "open_issues_count": 911,
-    "forks_count": 6639
+    "stargazers_count": 13750,
+    "open_issues_count": 917,
+    "forks_count": 6647
   }
 ]
