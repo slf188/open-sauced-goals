@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "oracle/python-oracledb",
+    "stargazers_count": 172,
+    "open_issues_count": 20,
+    "forks_count": 49
+  },
+  {
+    "full_name": "imartinez/privateGPT",
+    "stargazers_count": 5756,
+    "open_issues_count": 30,
+    "forks_count": 452
+  },
+  {
+    "full_name": "GNS3/gns3-gui",
+    "stargazers_count": 1786,
+    "open_issues_count": 143,
+    "forks_count": 419
+  },
+  {
+    "full_name": "jupyterlab/jupyter-ai",
+    "stargazers_count": 177,
+    "open_issues_count": 48,
+    "forks_count": 17
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "stargazers_count": 200483,
+    "open_issues_count": 281,
+    "forks_count": 19562
+  },
+  {
+    "full_name": "public-apis/public-apis",
+    "stargazers_count": 238890,
+    "open_issues_count": 193,
+    "forks_count": 27156
+  },
+  {
+    "full_name": "openai/shap-e",
+    "stargazers_count": 7091,
+    "open_issues_count": 38,
+    "forks_count": 436
+  },
+  {
+    "full_name": "yzhang-gh/vscode-markdown",
+    "stargazers_count": 2575,
+    "open_issues_count": 277,
+    "forks_count": 312
+  },
+  {
+    "full_name": "microsoft/vscode-jupyter",
+    "stargazers_count": 1013,
+    "open_issues_count": 524,
+    "forks_count": 221
+  },
+  {
+    "full_name": "primer/github-vscode-theme",
+    "stargazers_count": 1750,
+    "open_issues_count": 38,
+    "forks_count": 182
+  },
+  {
+    "full_name": "MicrosoftDocs/live-share",
+    "stargazers_count": 2146,
+    "open_issues_count": 95,
+    "forks_count": 264
+  },
+  {
+    "full_name": "microsoft/vscode-python",
+    "stargazers_count": 3920,
+    "open_issues_count": 524,
+    "forks_count": 1073
+  },
+  {
+    "full_name": "microsoft/vscode-remote-repositories-github",
+    "stargazers_count": 142,
+    "open_issues_count": 79,
+    "forks_count": 71
+  },
+  {
+    "full_name": "microsoft/vscode-remote-release",
+    "stargazers_count": 3126,
+    "open_issues_count": 850,
+    "forks_count": 221
+  },
+  {
+    "full_name": "darkreader/darkreader",
+    "stargazers_count": 16637,
+    "open_issues_count": 880,
+    "forks_count": 2126
+  },
+  {
+    "full_name": "vscode-icons/vscode-icons",
+    "stargazers_count": 4025,
+    "open_issues_count": 183,
+    "forks_count": 869
+  },
+  {
     "full_name": "gventuri/pandas-ai",
-    "stargazers_count": 4882,
-    "open_issues_count": 26,
-    "forks_count": 288
+    "stargazers_count": 5375,
+    "open_issues_count": 38,
+    "forks_count": 328
   },
   {
     "full_name": "bigcode-project/starcoder",
-    "stargazers_count": 2684,
-    "open_issues_count": 12,
-    "forks_count": 144
+    "stargazers_count": 3504,
+    "open_issues_count": 15,
+    "forks_count": 177
   },
   {
     "full_name": "reworkd/AgentGPT",
-    "stargazers_count": 21332,
-    "open_issues_count": 110,
-    "forks_count": 7164
+    "stargazers_count": 21731,
+    "open_issues_count": 92,
+    "forks_count": 7380
   },
   {
     "full_name": "eugeneyan/open-llms",
-    "stargazers_count": 1708,
-    "open_issues_count": 4,
-    "forks_count": 95
+    "stargazers_count": 3899,
+    "open_issues_count": 3,
+    "forks_count": 194
   },
   {
     "full_name": "modularml/mojo",
-    "stargazers_count": 4697,
-    "open_issues_count": 21,
-    "forks_count": 79
+    "stargazers_count": 5629,
+    "open_issues_count": 29,
+    "forks_count": 101
   },
   {
     "full_name": "intitni/CopilotForXcode",
-    "stargazers_count": 3527,
-    "open_issues_count": 21,
-    "forks_count": 129
+    "stargazers_count": 3612,
+    "open_issues_count": 23,
+    "forks_count": 133
   },
   {
     "full_name": "xtekky/gpt4free",
-    "stargazers_count": 33560,
-    "open_issues_count": 66,
-    "forks_count": 8459
+    "stargazers_count": 34814,
+    "open_issues_count": 81,
+    "forks_count": 8799
   },
   {
     "full_name": "Stability-AI/StableLM",
-    "stargazers_count": 13689,
-    "open_issues_count": 24,
-    "forks_count": 789
+    "stargazers_count": 13833,
+    "open_issues_count": 20,
+    "forks_count": 804
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 61085,
-    "open_issues_count": 9563,
-    "forks_count": 11179
+    "stargazers_count": 61200,
+    "open_issues_count": 9557,
+    "forks_count": 11246
   },
   {
     "full_name": "asterisk/asterisk",
-    "stargazers_count": 1459,
-    "open_issues_count": 18,
-    "forks_count": 819
+    "stargazers_count": 1462,
+    "open_issues_count": 23,
+    "forks_count": 822
   },
   {
     "full_name": "fastai/nbdev",
-    "stargazers_count": 4315,
-    "open_issues_count": 115,
+    "stargazers_count": 4318,
+    "open_issues_count": 117,
     "forks_count": 440
   },
   {
     "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 127262,
-    "open_issues_count": 786,
-    "forks_count": 25387
+    "stargazers_count": 129238,
+    "open_issues_count": 797,
+    "forks_count": 26058
   },
   {
     "full_name": "twitter/the-algorithm-ml",
-    "stargazers_count": 9400,
+    "stargazers_count": 9410,
     "open_issues_count": 53,
-    "forks_count": 2151
+    "forks_count": 2154
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 56707,
-    "open_issues_count": 331,
-    "forks_count": 11702
-  },
-  {
-    "full_name": "mlfoundations/open_flamingo",
-    "stargazers_count": 1968,
-    "open_issues_count": 38,
-    "forks_count": 128
-  },
-  {
-    "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 15956,
-    "open_issues_count": 130,
-    "forks_count": 2407
-  },
-  {
-    "full_name": "NVIDIA/cuda-samples",
-    "stargazers_count": 3483,
-    "open_issues_count": 107,
-    "forks_count": 1273
-  },
-  {
-    "full_name": "openai/evals",
-    "stargazers_count": 9267,
-    "open_issues_count": 554,
-    "forks_count": 1736
-  },
-  {
-    "full_name": "tatsu-lab/stanford_alpaca",
-    "stargazers_count": 23222,
-    "open_issues_count": 151,
-    "forks_count": 3322
-  },
-  {
-    "full_name": "microsoft/TaskMatrix",
-    "stargazers_count": 32549,
-    "open_issues_count": 204,
-    "forks_count": 3098
-  },
-  {
-    "full_name": "ggerganov/llama.cpp",
-    "stargazers_count": 26333,
-    "open_issues_count": 246,
-    "forks_count": 3793
-  },
-  {
-    "full_name": "gencay/vscode-chatgpt",
-    "stargazers_count": 3249,
-    "open_issues_count": 3,
-    "forks_count": 776
-  },
-  {
-    "full_name": "mnielsen/neural-networks-and-deep-learning",
-    "stargazers_count": 14390,
-    "open_issues_count": 7,
-    "forks_count": 6242
-  },
-  {
-    "full_name": "rome/tools",
-    "stargazers_count": 23316,
-    "open_issues_count": 77,
-    "forks_count": 666
-  },
-  {
-    "full_name": "facebookresearch/llama",
-    "stargazers_count": 20846,
-    "open_issues_count": 217,
-    "forks_count": 3335
-  },
-  {
-    "full_name": "o2sh/onefetch",
-    "stargazers_count": 7685,
-    "open_issues_count": 27,
-    "forks_count": 228
-  },
-  {
-    "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 27962,
-    "open_issues_count": 40,
-    "forks_count": 2363
-  },
-  {
-    "full_name": "LAION-AI/Open-Assistant",
-    "stargazers_count": 32111,
-    "open_issues_count": 431,
-    "forks_count": 2718
-  },
-  {
-    "full_name": "OptiKey/OptiKey",
-    "stargazers_count": 4156,
-    "open_issues_count": 100,
-    "forks_count": 511
-  },
-  {
-    "full_name": "huggingface/accelerate",
-    "stargazers_count": 4439,
-    "open_issues_count": 93,
-    "forks_count": 437
+    "stargazers_count": 56801,
+    "open_issues_count": 328,
+    "forks_count": 11714
   }
 ]
