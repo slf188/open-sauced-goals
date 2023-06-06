@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "microsoft/winget-cli",
+    "stargazers_count": 20279,
+    "open_issues_count": 706,
+    "forks_count": 1290
+  },
+  {
     "full_name": "fwcd/kotlin-language-server",
-    "stargazers_count": 1213,
-    "open_issues_count": 161,
+    "stargazers_count": 1218,
+    "open_issues_count": 162,
     "forks_count": 159
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 8201,
-    "open_issues_count": 2634,
-    "forks_count": 1130
+    "stargazers_count": 8237,
+    "open_issues_count": 2643,
+    "forks_count": 1135
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 41828,
-    "open_issues_count": 3761,
-    "forks_count": 6215
+    "stargazers_count": 41859,
+    "open_issues_count": 3785,
+    "forks_count": 6221
   },
   {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 1838,
-    "open_issues_count": 317,
-    "forks_count": 128
+    "stargazers_count": 1946,
+    "open_issues_count": 336,
+    "forks_count": 135
   },
   {
     "full_name": "atlas-engineer/nyxt",
-    "stargazers_count": 8814,
+    "stargazers_count": 8838,
     "open_issues_count": 373,
-    "forks_count": 366
+    "forks_count": 367
   },
   {
     "full_name": "apple/swift-foundation",
-    "stargazers_count": 1682,
-    "open_issues_count": 26,
-    "forks_count": 70
+    "stargazers_count": 1694,
+    "open_issues_count": 25,
+    "forks_count": 72
   },
   {
     "full_name": "microsoft/terminal",
-    "stargazers_count": 88987,
-    "open_issues_count": 1520,
-    "forks_count": 7797
+    "stargazers_count": 89043,
+    "open_issues_count": 1515,
+    "forks_count": 7807
   },
   {
     "full_name": "georgia-tech-db/eva",
-    "stargazers_count": 1958,
-    "open_issues_count": 22,
+    "stargazers_count": 1978,
+    "open_issues_count": 23,
     "forks_count": 155
   },
   {
     "full_name": "firebase/firebase-ios-sdk",
-    "stargazers_count": 4475,
-    "open_issues_count": 369,
-    "forks_count": 1233
+    "stargazers_count": 4476,
+    "open_issues_count": 368,
+    "forks_count": 1236
   },
   {
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 7354,
+    "stargazers_count": 7470,
     "open_issues_count": 24,
-    "forks_count": 182
+    "forks_count": 185
   },
   {
     "full_name": "relatedcode/awesome-mojo",
-    "stargazers_count": 2945,
+    "stargazers_count": 2962,
     "open_issues_count": 0,
-    "forks_count": 304
+    "forks_count": 306
   },
   {
     "full_name": "curl/curl",
-    "stargazers_count": 30292,
-    "open_issues_count": 89,
-    "forks_count": 5791
+    "stargazers_count": 30322,
+    "open_issues_count": 85,
+    "forks_count": 5794
   },
   {
     "full_name": "yashash-pugalia/win11-svelte",
-    "stargazers_count": 1245,
+    "stargazers_count": 1249,
     "open_issues_count": 4,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "brexhq/prompt-engineering",
-    "stargazers_count": 5796,
+    "stargazers_count": 5881,
     "open_issues_count": 3,
-    "forks_count": 340
+    "forks_count": 344
   },
   {
     "full_name": "oracle/python-oracledb",
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "open_issues_count": 19,
     "forks_count": 49
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 26372,
-    "open_issues_count": 263,
-    "forks_count": 2915
+    "stargazers_count": 28165,
+    "open_issues_count": 286,
+    "forks_count": 3179
   },
   {
     "full_name": "GNS3/gns3-gui",
-    "stargazers_count": 1799,
-    "open_issues_count": 142,
-    "forks_count": 421
+    "stargazers_count": 1801,
+    "open_issues_count": 141,
+    "forks_count": 420
   },
   {
     "full_name": "jupyterlab/jupyter-ai",
-    "stargazers_count": 273,
-    "open_issues_count": 56,
-    "forks_count": 29
+    "stargazers_count": 295,
+    "open_issues_count": 54,
+    "forks_count": 31
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 202993,
-    "open_issues_count": 287,
-    "forks_count": 19796
+    "stargazers_count": 203434,
+    "open_issues_count": 288,
+    "forks_count": 19826
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 241701,
-    "open_issues_count": 175,
-    "forks_count": 27612
+    "stargazers_count": 241980,
+    "open_issues_count": 177,
+    "forks_count": 27636
   },
   {
     "full_name": "openai/shap-e",
-    "stargazers_count": 9251,
-    "open_issues_count": 68,
-    "forks_count": 627
+    "stargazers_count": 9390,
+    "open_issues_count": 70,
+    "forks_count": 643
   },
   {
     "full_name": "yzhang-gh/vscode-markdown",
-    "stargazers_count": 2594,
-    "open_issues_count": 284,
-    "forks_count": 314
+    "stargazers_count": 2595,
+    "open_issues_count": 286,
+    "forks_count": 313
   },
   {
     "full_name": "microsoft/vscode-jupyter",
-    "stargazers_count": 1032,
-    "open_issues_count": 567,
+    "stargazers_count": 1041,
+    "open_issues_count": 580,
     "forks_count": 225
   },
   {
     "full_name": "primer/github-vscode-theme",
-    "stargazers_count": 1758,
+    "stargazers_count": 1759,
     "open_issues_count": 38,
     "forks_count": 181
   },
   {
     "full_name": "MicrosoftDocs/live-share",
-    "stargazers_count": 2152,
-    "open_issues_count": 102,
+    "stargazers_count": 2153,
+    "open_issues_count": 103,
     "forks_count": 265
   },
   {
     "full_name": "microsoft/vscode-python",
-    "stargazers_count": 3938,
-    "open_issues_count": 551,
-    "forks_count": 1079
+    "stargazers_count": 3946,
+    "open_issues_count": 549,
+    "forks_count": 1080
   },
   {
     "full_name": "microsoft/vscode-remote-repositories-github",
     "stargazers_count": 149,
-    "open_issues_count": 79,
+    "open_issues_count": 80,
     "forks_count": 72
   },
   {
     "full_name": "microsoft/vscode-remote-release",
-    "stargazers_count": 3162,
-    "open_issues_count": 881,
+    "stargazers_count": 3167,
+    "open_issues_count": 878,
     "forks_count": 226
   },
   {
     "full_name": "darkreader/darkreader",
-    "stargazers_count": 16768,
-    "open_issues_count": 919,
-    "forks_count": 2136
-  },
-  {
-    "full_name": "vscode-icons/vscode-icons",
-    "stargazers_count": 4040,
-    "open_issues_count": 193,
-    "forks_count": 869
+    "stargazers_count": 16788,
+    "open_issues_count": 938,
+    "forks_count": 2139
   }
 ]
