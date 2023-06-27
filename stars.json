@@ -1,93 +1,93 @@
 [
   {
     "full_name": "microsoft/winget-cli",
-    "stargazers_count": 20377,
-    "open_issues_count": 723,
-    "forks_count": 1297
+    "stargazers_count": 20398,
+    "open_issues_count": 720,
+    "forks_count": 1298
   },
   {
     "full_name": "fwcd/kotlin-language-server",
-    "stargazers_count": 1225,
+    "stargazers_count": 1227,
     "open_issues_count": 164,
-    "forks_count": 161
+    "forks_count": 162
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 8363,
-    "open_issues_count": 2672,
-    "forks_count": 1148
+    "stargazers_count": 8392,
+    "open_issues_count": 2666,
+    "forks_count": 1149
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 42131,
-    "open_issues_count": 3842,
-    "forks_count": 6243
+    "stargazers_count": 42187,
+    "open_issues_count": 3862,
+    "forks_count": 6255
   },
   {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 2172,
-    "open_issues_count": 320,
-    "forks_count": 151
+    "stargazers_count": 2214,
+    "open_issues_count": 321,
+    "forks_count": 156
   },
   {
     "full_name": "atlas-engineer/nyxt",
-    "stargazers_count": 8904,
-    "open_issues_count": 388,
-    "forks_count": 373
+    "stargazers_count": 8915,
+    "open_issues_count": 386,
+    "forks_count": 374
   },
   {
     "full_name": "apple/swift-foundation",
-    "stargazers_count": 1750,
-    "open_issues_count": 29,
-    "forks_count": 75
+    "stargazers_count": 1760,
+    "open_issues_count": 32,
+    "forks_count": 76
   },
   {
     "full_name": "microsoft/terminal",
-    "stargazers_count": 89283,
-    "open_issues_count": 1517,
-    "forks_count": 7856
+    "stargazers_count": 89308,
+    "open_issues_count": 1528,
+    "forks_count": 7867
   },
   {
     "full_name": "georgia-tech-db/eva",
-    "stargazers_count": 2049,
-    "open_issues_count": 21,
-    "forks_count": 157
+    "stargazers_count": 2088,
+    "open_issues_count": 20,
+    "forks_count": 160
   },
   {
     "full_name": "firebase/firebase-ios-sdk",
-    "stargazers_count": 4505,
-    "open_issues_count": 374,
-    "forks_count": 1246
+    "stargazers_count": 4514,
+    "open_issues_count": 379,
+    "forks_count": 1247
   },
   {
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 7712,
-    "open_issues_count": 25,
+    "stargazers_count": 7754,
+    "open_issues_count": 27,
     "forks_count": 190
   },
   {
     "full_name": "relatedcode/awesome-mojo",
-    "stargazers_count": 3000,
-    "open_issues_count": 1,
+    "stargazers_count": 3008,
+    "open_issues_count": 0,
     "forks_count": 308
   },
   {
     "full_name": "curl/curl",
-    "stargazers_count": 30487,
-    "open_issues_count": 92,
-    "forks_count": 5813
+    "stargazers_count": 30519,
+    "open_issues_count": 94,
+    "forks_count": 5822
   },
   {
     "full_name": "yashash-pugalia/win11-svelte",
-    "stargazers_count": 1295,
+    "stargazers_count": 1300,
     "open_issues_count": 5,
-    "forks_count": 28
+    "forks_count": 30
   },
   {
     "full_name": "brexhq/prompt-engineering",
-    "stargazers_count": 6228,
+    "stargazers_count": 6278,
     "open_issues_count": 3,
-    "forks_count": 365
+    "forks_count": 373
   },
   {
     "full_name": "oracle/python-oracledb",
@@ -97,86 +97,86 @@
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 31221,
-    "open_issues_count": 360,
-    "forks_count": 3699
+    "stargazers_count": 31636,
+    "open_issues_count": 366,
+    "forks_count": 3788
   },
   {
     "full_name": "GNS3/gns3-gui",
-    "stargazers_count": 1815,
-    "open_issues_count": 143,
+    "stargazers_count": 1817,
+    "open_issues_count": 142,
     "forks_count": 422
   },
   {
     "full_name": "jupyterlab/jupyter-ai",
-    "stargazers_count": 354,
-    "open_issues_count": 58,
-    "forks_count": 31
+    "stargazers_count": 361,
+    "open_issues_count": 59,
+    "forks_count": 32
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 205455,
+    "stargazers_count": 206397,
     "open_issues_count": 280,
-    "forks_count": 20035
+    "forks_count": 20166
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 244906,
-    "open_issues_count": 183,
-    "forks_count": 27990
+    "stargazers_count": 245189,
+    "open_issues_count": 185,
+    "forks_count": 28036
   },
   {
     "full_name": "openai/shap-e",
-    "stargazers_count": 9765,
+    "stargazers_count": 9800,
     "open_issues_count": 72,
-    "forks_count": 686
+    "forks_count": 688
   },
   {
     "full_name": "yzhang-gh/vscode-markdown",
-    "stargazers_count": 2604,
-    "open_issues_count": 289,
-    "forks_count": 312
+    "stargazers_count": 2606,
+    "open_issues_count": 290,
+    "forks_count": 313
   },
   {
     "full_name": "microsoft/vscode-jupyter",
     "stargazers_count": 1053,
-    "open_issues_count": 595,
+    "open_issues_count": 588,
     "forks_count": 231
   },
   {
     "full_name": "primer/github-vscode-theme",
     "stargazers_count": 1764,
     "open_issues_count": 38,
-    "forks_count": 181
+    "forks_count": 182
   },
   {
     "full_name": "MicrosoftDocs/live-share",
     "stargazers_count": 2157,
-    "open_issues_count": 109,
+    "open_issues_count": 96,
     "forks_count": 268
   },
   {
     "full_name": "microsoft/vscode-python",
-    "stargazers_count": 3959,
-    "open_issues_count": 559,
-    "forks_count": 1082
+    "stargazers_count": 3960,
+    "open_issues_count": 560,
+    "forks_count": 1081
   },
   {
     "full_name": "microsoft/vscode-remote-repositories-github",
     "stargazers_count": 151,
-    "open_issues_count": 76,
-    "forks_count": 74
+    "open_issues_count": 75,
+    "forks_count": 75
   },
   {
     "full_name": "microsoft/vscode-remote-release",
     "stargazers_count": 3182,
-    "open_issues_count": 889,
+    "open_issues_count": 891,
     "forks_count": 236
   },
   {
     "full_name": "darkreader/darkreader",
-    "stargazers_count": 16883,
-    "open_issues_count": 920,
-    "forks_count": 2153
+    "stargazers_count": 16908,
+    "open_issues_count": 924,
+    "forks_count": 2155
   }
 ]
