@@ -1,182 +1,182 @@
 [
   {
     "full_name": "git-ecosystem/git-credential-manager",
-    "stargazers_count": 5315,
-    "open_issues_count": 62,
-    "forks_count": 1697
+    "stargazers_count": 5327,
+    "open_issues_count": 63,
+    "forks_count": 1698
   },
   {
     "full_name": "google/fonts",
-    "stargazers_count": 17185,
-    "open_issues_count": 1177,
+    "stargazers_count": 17191,
+    "open_issues_count": 1182,
     "forks_count": 2610
   },
   {
     "full_name": "Binaryify/OneDark-Pro",
-    "stargazers_count": 1402,
+    "stargazers_count": 1406,
     "open_issues_count": 53,
-    "forks_count": 293
+    "forks_count": 295
   },
   {
     "full_name": "tairov/llama2.mojo",
-    "stargazers_count": 1776,
+    "stargazers_count": 1779,
     "open_issues_count": 15,
     "forks_count": 112
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 67091,
-    "open_issues_count": 2217,
-    "forks_count": 2220
+    "stargazers_count": 67372,
+    "open_issues_count": 2267,
+    "forks_count": 2239
   },
   {
     "full_name": "KillianLucas/open-interpreter",
-    "stargazers_count": 38575,
-    "open_issues_count": 188,
-    "forks_count": 3365
+    "stargazers_count": 39098,
+    "open_issues_count": 191,
+    "forks_count": 3411
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 25057,
-    "open_issues_count": 579,
-    "forks_count": 641
+    "stargazers_count": 25181,
+    "open_issues_count": 591,
+    "forks_count": 645
   },
   {
     "full_name": "vercel/ai",
-    "stargazers_count": 5638,
-    "open_issues_count": 108,
-    "forks_count": 1129
+    "stargazers_count": 5666,
+    "open_issues_count": 113,
+    "forks_count": 1135
   },
   {
     "full_name": "abetlen/llama-cpp-python",
-    "stargazers_count": 5167,
-    "open_issues_count": 267,
-    "forks_count": 667
+    "stargazers_count": 5216,
+    "open_issues_count": 273,
+    "forks_count": 670
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 58262,
-    "open_issues_count": 671,
-    "forks_count": 3260
+    "stargazers_count": 58379,
+    "open_issues_count": 689,
+    "forks_count": 3264
   },
   {
     "full_name": "exaloop/codon",
-    "stargazers_count": 13614,
-    "open_issues_count": 180,
-    "forks_count": 490
+    "stargazers_count": 13629,
+    "open_issues_count": 181,
+    "forks_count": 489
   },
   {
     "full_name": "id-Software/quake2-rerelease-dll",
-    "stargazers_count": 2089,
+    "stargazers_count": 2093,
     "open_issues_count": 3,
     "forks_count": 182
   },
   {
     "full_name": "phoboslab/wipeout-rewrite",
-    "stargazers_count": 2406,
+    "stargazers_count": 2410,
     "open_issues_count": 32,
     "forks_count": 196
   },
   {
     "full_name": "lcompilers/lpython",
-    "stargazers_count": 1185,
-    "open_issues_count": 504,
-    "forks_count": 124
+    "stargazers_count": 1190,
+    "open_issues_count": 505,
+    "forks_count": 126
   },
   {
     "full_name": "coq/coq",
-    "stargazers_count": 4491,
-    "open_issues_count": 2662,
-    "forks_count": 635
+    "stargazers_count": 4500,
+    "open_issues_count": 2668,
+    "forks_count": 637
   },
   {
     "full_name": "a16z-infra/llama2-chatbot",
-    "stargazers_count": 1310,
+    "stargazers_count": 1312,
     "open_issues_count": 9,
-    "forks_count": 217
+    "forks_count": 218
   },
   {
     "full_name": "microsoft/winget-cli",
-    "stargazers_count": 21532,
-    "open_issues_count": 919,
-    "forks_count": 1400
+    "stargazers_count": 21559,
+    "open_issues_count": 923,
+    "forks_count": 1403
   },
   {
     "full_name": "fwcd/kotlin-language-server",
-    "stargazers_count": 1382,
-    "open_issues_count": 178,
-    "forks_count": 186
+    "stargazers_count": 1384,
+    "open_issues_count": 179,
+    "forks_count": 187
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 9786,
-    "open_issues_count": 3046,
+    "stargazers_count": 9803,
+    "open_issues_count": 3040,
     "forks_count": 1293
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 45119,
-    "open_issues_count": 3912,
-    "forks_count": 6783
+    "stargazers_count": 45151,
+    "open_issues_count": 3923,
+    "forks_count": 6784
   },
   {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 2948,
-    "open_issues_count": 435,
-    "forks_count": 257
+    "stargazers_count": 2958,
+    "open_issues_count": 446,
+    "forks_count": 266
   },
   {
     "full_name": "atlas-engineer/nyxt",
-    "stargazers_count": 9334,
-    "open_issues_count": 268,
-    "forks_count": 397
+    "stargazers_count": 9336,
+    "open_issues_count": 260,
+    "forks_count": 398
   },
   {
     "full_name": "apple/swift-foundation",
-    "stargazers_count": 2075,
-    "open_issues_count": 69,
+    "stargazers_count": 2078,
+    "open_issues_count": 68,
     "forks_count": 119
   },
   {
     "full_name": "microsoft/terminal",
-    "stargazers_count": 92153,
-    "open_issues_count": 1522,
-    "forks_count": 8264
+    "stargazers_count": 92198,
+    "open_issues_count": 1535,
+    "forks_count": 8269
   },
   {
     "full_name": "georgia-tech-db/evadb",
-    "stargazers_count": 2470,
-    "open_issues_count": 134,
+    "stargazers_count": 2473,
+    "open_issues_count": 135,
     "forks_count": 254
   },
   {
     "full_name": "firebase/firebase-ios-sdk",
-    "stargazers_count": 4850,
-    "open_issues_count": 357,
+    "stargazers_count": 4856,
+    "open_issues_count": 358,
     "forks_count": 1374
   },
   {
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 12729,
+    "stargazers_count": 12749,
     "open_issues_count": 32,
-    "forks_count": 366
+    "forks_count": 365
   },
   {
     "full_name": "relatedcode/Midjourney",
-    "stargazers_count": 3145,
+    "stargazers_count": 3147,
     "open_issues_count": 0,
-    "forks_count": 333
+    "forks_count": 336
   },
   {
     "full_name": "curl/curl",
-    "stargazers_count": 32909,
-    "open_issues_count": 60,
-    "forks_count": 6193
+    "stargazers_count": 32930,
+    "open_issues_count": 72,
+    "forks_count": 6198
   },
   {
     "full_name": "yashash-pugalia/win11-svelte",
     "stargazers_count": 1383,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 41
   }
 ]

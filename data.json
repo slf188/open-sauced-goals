@@ -1,38 +1,38 @@
 [
   {
     "full_name": "fastai/fastbook",
-    "stargazers_count": 20041,
+    "stargazers_count": 20070,
     "open_issues_count": 145,
-    "forks_count": 7754
+    "forks_count": 7764
   },
   {
     "full_name": "fastai/fastai",
-    "stargazers_count": 25096,
-    "open_issues_count": 200,
+    "stargazers_count": 25109,
+    "open_issues_count": 201,
     "forks_count": 7504
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 74567,
-    "open_issues_count": 13208,
-    "forks_count": 20489
+    "stargazers_count": 74699,
+    "open_issues_count": 13247,
+    "forks_count": 20519
   },
   {
     "full_name": "huggingface/diffusers",
-    "stargazers_count": 20446,
-    "open_issues_count": 369,
-    "forks_count": 4241
+    "stargazers_count": 20534,
+    "open_issues_count": 376,
+    "forks_count": 4258
   },
   {
     "full_name": "apple/swift-book",
-    "stargazers_count": 1587,
-    "open_issues_count": 59,
-    "forks_count": 142
+    "stargazers_count": 1591,
+    "open_issues_count": 62,
+    "forks_count": 143
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 901,
+    "stargazers_count": 900,
     "open_issues_count": 0,
-    "forks_count": 828
+    "forks_count": 832
   }
 ]
