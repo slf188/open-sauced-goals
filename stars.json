@@ -1,165 +1,165 @@
 [
   {
     "full_name": "xai-org/grok-1",
-    "stargazers_count": 44417,
+    "stargazers_count": 45508,
     "open_issues_count": 75,
-    "forks_count": 7446
+    "forks_count": 7623
   },
   {
     "full_name": "openai/grok",
-    "stargazers_count": 3844,
-    "open_issues_count": 31,
-    "forks_count": 471
+    "stargazers_count": 3877,
+    "open_issues_count": 32,
+    "forks_count": 476
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 29458,
-    "open_issues_count": 1627,
-    "forks_count": 1256
+    "stargazers_count": 29640,
+    "open_issues_count": 1636,
+    "forks_count": 1270
   },
   {
     "full_name": "git-ecosystem/git-credential-manager",
-    "stargazers_count": 5564,
-    "open_issues_count": 72,
-    "forks_count": 1504
+    "stargazers_count": 5580,
+    "open_issues_count": 73,
+    "forks_count": 1506
   },
   {
     "full_name": "google/fonts",
-    "stargazers_count": 17417,
-    "open_issues_count": 1218,
-    "forks_count": 2564
+    "stargazers_count": 17427,
+    "open_issues_count": 1210,
+    "forks_count": 2568
   },
   {
     "full_name": "Binaryify/OneDark-Pro",
-    "stargazers_count": 1427,
+    "stargazers_count": 1430,
     "open_issues_count": 54,
     "forks_count": 289
   },
   {
     "full_name": "tairov/llama2.mojo",
-    "stargazers_count": 1859,
+    "stargazers_count": 1864,
     "open_issues_count": 14,
     "forks_count": 123
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 69103,
-    "open_issues_count": 2617,
-    "forks_count": 2328
+    "stargazers_count": 69179,
+    "open_issues_count": 2645,
+    "forks_count": 2334
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 44749,
-    "open_issues_count": 104,
-    "forks_count": 3880
+    "stargazers_count": 45731,
+    "open_issues_count": 98,
+    "forks_count": 3944
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 27245,
-    "open_issues_count": 641,
-    "forks_count": 727
+    "stargazers_count": 27335,
+    "open_issues_count": 654,
+    "forks_count": 729
   },
   {
     "full_name": "vercel/ai",
-    "stargazers_count": 7260,
-    "open_issues_count": 164,
-    "forks_count": 921
+    "stargazers_count": 7344,
+    "open_issues_count": 168,
+    "forks_count": 934
   },
   {
     "full_name": "abetlen/llama-cpp-python",
-    "stargazers_count": 6017,
-    "open_issues_count": 328,
-    "forks_count": 712
+    "stargazers_count": 6062,
+    "open_issues_count": 332,
+    "forks_count": 714
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 60907,
-    "open_issues_count": 748,
-    "forks_count": 3221
+    "stargazers_count": 60997,
+    "open_issues_count": 755,
+    "forks_count": 3225
   },
   {
     "full_name": "exaloop/codon",
-    "stargazers_count": 13768,
+    "stargazers_count": 13773,
     "open_issues_count": 175,
     "forks_count": 488
   },
   {
     "full_name": "id-Software/quake2-rerelease-dll",
-    "stargazers_count": 2112,
+    "stargazers_count": 2113,
     "open_issues_count": 2,
     "forks_count": 186
   },
   {
     "full_name": "phoboslab/wipeout-rewrite",
-    "stargazers_count": 2472,
+    "stargazers_count": 2478,
     "open_issues_count": 41,
     "forks_count": 188
   },
   {
     "full_name": "lcompilers/lpython",
     "stargazers_count": 1244,
-    "open_issues_count": 555,
-    "forks_count": 149
+    "open_issues_count": 556,
+    "forks_count": 148
   },
   {
     "full_name": "coq/coq",
-    "stargazers_count": 4578,
-    "open_issues_count": 2697,
-    "forks_count": 625
+    "stargazers_count": 4584,
+    "open_issues_count": 2694,
+    "forks_count": 626
   },
   {
     "full_name": "a16z-infra/llama2-chatbot",
-    "stargazers_count": 1364,
+    "stargazers_count": 1366,
     "open_issues_count": 9,
     "forks_count": 219
   },
   {
     "full_name": "microsoft/winget-cli",
-    "stargazers_count": 21943,
-    "open_issues_count": 939,
-    "forks_count": 1364
+    "stargazers_count": 21965,
+    "open_issues_count": 946,
+    "forks_count": 1365
   },
   {
     "full_name": "fwcd/kotlin-language-server",
-    "stargazers_count": 1457,
+    "stargazers_count": 1461,
     "open_issues_count": 179,
     "forks_count": 185
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 10608,
-    "open_issues_count": 3179,
-    "forks_count": 1367
+    "stargazers_count": 10635,
+    "open_issues_count": 3187,
+    "forks_count": 1370
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 45699,
-    "open_issues_count": 4028,
-    "forks_count": 6680
+    "stargazers_count": 45713,
+    "open_issues_count": 3996,
+    "forks_count": 6684
   },
   {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 3193,
-    "open_issues_count": 442,
-    "forks_count": 242
+    "stargazers_count": 3222,
+    "open_issues_count": 444,
+    "forks_count": 244
   },
   {
     "full_name": "atlas-engineer/nyxt",
-    "stargazers_count": 9490,
-    "open_issues_count": 230,
+    "stargazers_count": 9487,
+    "open_issues_count": 234,
     "forks_count": 399
   },
   {
     "full_name": "apple/swift-foundation",
-    "stargazers_count": 2134,
-    "open_issues_count": 79,
+    "stargazers_count": 2136,
+    "open_issues_count": 75,
     "forks_count": 128
   },
   {
     "full_name": "microsoft/terminal",
-    "stargazers_count": 93143,
-    "open_issues_count": 1536,
-    "forks_count": 8052
+    "stargazers_count": 93163,
+    "open_issues_count": 1527,
+    "forks_count": 8057
   },
   {
     "full_name": "georgia-tech-db/evadb",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "firebase/firebase-ios-sdk",
-    "stargazers_count": 5061,
-    "open_issues_count": 390,
-    "forks_count": 1325
+    "stargazers_count": 5064,
+    "open_issues_count": 393,
+    "forks_count": 1326
   },
   {
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 13280,
+    "stargazers_count": 13301,
     "open_issues_count": 35,
-    "forks_count": 384
+    "forks_count": 387
   }
 ]
